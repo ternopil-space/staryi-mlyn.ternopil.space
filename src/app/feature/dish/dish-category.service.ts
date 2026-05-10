@@ -32,14 +32,21 @@ export class DishCategoryService {
 
 	selectCategory(
 		category: DishCategory,
-		categories: DishCategory[],
+		_categories: DishCategory[],
 		selectedCategories: DishCategory[] = [],
 	) {
-		while (categories.length) {
-			selectedCategories.push(category);
-			categories = categories[0].children ?? [];
-		}
-		this.selectedCategories.set(selectedCategories);
+		const parentIndex = category.parent
+			? selectedCategories.findIndex(
+					(selectedCategory) => selectedCategory.slug === category.parent,
+				)
+			: -1;
+		const nextSelectedCategories =
+			parentIndex >= 0
+				? selectedCategories.slice(0, parentIndex + 1)
+				: [];
+
+		nextSelectedCategories.push(category);
+		this.selectedCategories.set(nextSelectedCategories);
 	}
 
 	private _mapCategory(category: DishCategory): DishCategory {

@@ -18,7 +18,7 @@ const rawCompanyProfile = companyData as RawCompanyProfile;
 
 export const companyProfile: CompanyProfile = {
 	_id: _stringOrFallback(rawCompanyProfile._id, 'demo'),
-	name: _stringOrFallback(rawCompanyProfile.name, 'Horeca'),
+	name: _stringOrFallback(rawCompanyProfile.name, 'Старий млин'),
 	lang: _stringOrFallback(rawCompanyProfile.lang, 'uk'),
 	locale: _stringOrFallback(rawCompanyProfile.locale, 'uk_UA'),
 	siteUrl: _trimTrailingSlash(_stringOrFallback(rawCompanyProfile.siteUrl)),
@@ -36,10 +36,10 @@ function _normalizeSeoMetadata(
 	companyName: string | undefined,
 ): SeoMetadata {
 	return {
-		title: _stringOrFallback(metadata?.title, _stringOrFallback(companyName, 'Horeca')),
+		title: _stringOrFallback(metadata?.title, _stringOrFallback(companyName, 'Старий млин')),
 		description: _stringOrFallback(metadata?.description),
 		keywords: _stringArrayOrFallback(metadata?.keywords),
-		author: _stringOrFallback(metadata?.author, _stringOrFallback(companyName, 'Horeca')),
+		author: _stringOrFallback(metadata?.author, _stringOrFallback(companyName, 'Старий млин')),
 		robots: _stringOrFallback(metadata?.robots, 'index, follow'),
 		image: _stringOrFallback(metadata?.image, '/logo.png'),
 		type: _stringOrFallback(metadata?.type, 'website'),
@@ -83,8 +83,8 @@ function _normalizeStructuredData(
 	return {
 		type: _stringOrFallback(structuredData?.type, 'Restaurant'),
 		priceRange: _stringOrFallback(structuredData?.priceRange, '$$'),
-		servesCuisine: _stringOrFallback(structuredData?.servesCuisine, 'HoReCa'),
-		addressLocality: _stringOrFallback(structuredData?.addressLocality, 'Kamianets-Podilskyi'),
+		servesCuisine: _stringOrFallback(structuredData?.servesCuisine, 'Ukrainian, Galician'),
+		addressLocality: _stringOrFallback(structuredData?.addressLocality, 'Ternopil'),
 		addressCountry: _stringOrFallback(structuredData?.addressCountry, 'UA'),
 		sameAs: _stringArrayOrFallback(structuredData?.sameAs),
 	};

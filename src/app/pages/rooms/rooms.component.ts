@@ -38,18 +38,18 @@ export class RoomsComponent {
 	protected readonly contactLinks: ContactLink[] = [
 		{
 			label: 'Call us',
-			href: 'tel:+380970000000',
-			description: '+38 097 000 00 00',
+			href: 'tel:+380352251555',
+			description: '+380352251555',
 		},
 		{
 			label: 'Chat on Viber',
-			href: 'https://example.com/horeca-demo/viber',
-			description: 'Demo chat for quick booking',
+			href: 'viber://chat?number=%2B380352251555',
+			description: 'Reserve a table or contact the restaurant administration.',
 		},
 		{
 			label: 'Chat on Telegram',
-			href: 'https://example.com/horeca-demo/telegram',
-			description: '@horeca_demo',
+			href: 'https://t.me/staryimlyn',
+			description: '@staryimlyn',
 		},
 	];
 }

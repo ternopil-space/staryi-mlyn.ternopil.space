@@ -12,10 +12,28 @@
 		"slug": "drinks"
 	},
 	{
-		"name": "Breakfasts",
-		"description": "Morning meals and light starters.",
+		"name": "Like Mom's",
+		"description": "Homestyle Ukrainian and Galician dishes.",
 		"parent": "food",
-		"slug": "breakfasts"
+		"slug": "yak-u-mamy"
+	},
+	{
+		"name": "Traditional Dishes",
+		"description": "Authentic Ukrainian dishes from the Staryi Mlyn kitchen.",
+		"parent": "food",
+		"slug": "narodni-stravy"
+	},
+	{
+		"name": "Fire-Baked Dishes",
+		"description": "",
+		"parent": "food",
+		"slug": "zapekani-na-vohni"
+	},
+	{
+		"name": "Varenyky",
+		"description": "",
+		"parent": "food",
+		"slug": "varenyky"
 	},
 	{
 		"name": "Coffee",

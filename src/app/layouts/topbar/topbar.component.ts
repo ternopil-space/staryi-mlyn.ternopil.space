@@ -5,11 +5,10 @@ import { TranslateService } from '@wawjs/ngx-translate';
 import { ThemeService } from '@wawjs/ngx-ui';
 import { LanguageOption } from '../../feature/language/language.interface';
 import { LanguageService } from '../../feature/language/language.service';
-import { TranslatePipe } from '../../shared/translate.pipe';
 
 @Component({
 	selector: 'app-topbar',
-	imports: [NgOptimizedImage, RouterLink, TranslatePipe],
+	imports: [NgOptimizedImage, RouterLink],
 	templateUrl: './topbar.component.html',
 	styleUrl: './topbar.component.scss',
 	changeDetection: ChangeDetectionStrategy.OnPush,
