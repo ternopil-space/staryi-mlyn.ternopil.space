@@ -2,10 +2,11 @@ import { ChangeDetectionStrategy, Component, inject, input } from '@angular/core
 import { TranslatePipe } from '../../shared/translate.pipe';
 import { DishCategoryService } from '../../feature/dish/dish-category.service';
 import { DishCategory } from '../../feature/dish/dish.interface';
+import { FadeInDirective } from '../../directives/fade-in.directive';
 
 @Component({
 	selector: 'app-menu-categories',
-	imports: [TranslatePipe],
+	imports: [FadeInDirective, TranslatePipe],
 	templateUrl: './menu-categories.component.html',
 	changeDetection: ChangeDetectionStrategy.OnPush,
 })

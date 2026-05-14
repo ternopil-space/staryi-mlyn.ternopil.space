@@ -3,10 +3,11 @@ import { RouterLink } from '@angular/router';
 import { TranslatePipe } from '../../shared/translate.pipe';
 import { DishCard } from '../../feature/dish/dish.interface';
 import { DishService } from '../../feature/dish/dish.service';
+import { FadeInDirective } from '../../directives/fade-in.directive';
 
 @Component({
 	selector: 'app-menu-dish',
-	imports: [RouterLink, TranslatePipe],
+	imports: [FadeInDirective, RouterLink, TranslatePipe],
 	templateUrl: './menu-dish.component.html',
 	styleUrl: './menu-dish.component.scss',
 	changeDetection: ChangeDetectionStrategy.OnPush,

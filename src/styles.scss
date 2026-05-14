@@ -62,4 +62,53 @@ body {
 	margin: 0;
 }
 
+.app-fade-in {
+	opacity: 0;
+	transform: translateY(30px);
+	transition:
+		opacity 0.7s ease,
+		transform 0.7s ease;
+	will-change: opacity, transform;
+}
+
+.app-fade-in.visible {
+	opacity: 1;
+	transform: translateY(0);
+}
+
+.app-fade-in:nth-child(2) {
+	transition-delay: 0.1s;
+}
+
+.app-fade-in:nth-child(3) {
+	transition-delay: 0.2s;
+}
+
+.app-fade-in:nth-child(4) {
+	transition-delay: 0.3s;
+}
+
+.app-fade-in:nth-child(5) {
+	transition-delay: 0.4s;
+}
+
+.app-fade-in:nth-child(n + 6) {
+	transition-delay: 0.5s;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	*,
+	*::before,
+	*::after {
+		animation: none !important;
+		scroll-behavior: auto !important;
+		transition: none !important;
+	}
+
+	.app-fade-in {
+		opacity: 1;
+		transform: none;
+	}
+}
+
 @plugin "@tailwindcss/typography";

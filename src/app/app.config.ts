@@ -6,6 +6,7 @@ import {
 } from '@angular/core';
 
 import { provideHttpClient, withFetch } from '@angular/common/http';
+import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
 import { provideClientHydration, withEventReplay } from '@angular/platform-browser';
 import { provideRouter, withRouterConfig } from '@angular/router';
 import { provideNgxCore } from '@wawjs/ngx-core';
@@ -36,6 +37,7 @@ export const appConfig: ApplicationConfig = {
 			}),
 		),
 		provideHttpClient(withFetch()),
+		provideAnimationsAsync(),
 		provideClientHydration(withEventReplay()),
 		provideNgxCore({
 			meta: {

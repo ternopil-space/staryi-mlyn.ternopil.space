@@ -36,9 +36,63 @@
 		"slug": "varenyky"
 	},
 	{
-		"name": "Coffee",
-		"description": "Hot and cold coffee drinks.",
+		"name": "Сніданки",
+		"description": "",
+		"parent": "food",
+		"slug": "snidanky"
+	},
+	{
+		"name": "Салатки",
+		"description": "",
+		"parent": "food",
+		"slug": "salatky"
+	},
+	{
+		"name": "Сільські смаки",
+		"description": "",
+		"parent": "food",
+		"slug": "silski-smaky"
+	},
+	{
+		"name": "На перше",
+		"description": "",
+		"parent": "food",
+		"slug": "na-pershe"
+	},
+	{
+		"name": "Гарніри",
+		"description": "",
+		"parent": "food",
+		"slug": "harniry"
+	},
+	{
+		"name": "Солоденьке",
+		"description": "",
+		"parent": "food",
+		"slug": "solodenke"
+	},
+	{
+		"name": "Дитяче меню",
+		"description": "",
+		"parent": "food",
+		"slug": "dytiache-menu"
+	},
+	{
+		"name": "Галицькі обіди",
+		"description": "",
+		"parent": "food",
+		"slug": "halytski-obidy"
+	},
+	{
+		"name": "Бенкетне меню",
+		"description": "",
+		"parent": "food",
+		"slug": "benketne-menu"
+	},
+	{
+		"name": "Напої",
+		"description": "",
 		"parent": "drinks",
-		"slug": "coffee"
+		"slug": "napoi"
 	}
 ]

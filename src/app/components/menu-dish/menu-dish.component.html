@@ -1,6 +1,7 @@
 @let _dish = dish();
 
 <article
+	appFadeIn
 	class="grid grid-cols-[minmax(0,1fr)_7.25rem] gap-3 px-3 py-3 sm:grid-cols-[minmax(0,1fr)_10rem]"
 >
 	<div class="min-w-0">
@@ -42,7 +43,7 @@
 			@if (_dish.price === null) {
 				{{ 'Ask for price' | translate }}
 			} @else {
-				{{ _dish.price }} ₴
+				{{ _dish.price }} &#8372;
 			}
 		</p>
 
@@ -69,7 +70,7 @@
 		[attr.aria-label]="_dish.name | translate"
 	>
 		<img
-			class="h-[5.9rem] w-full rounded-[0.75rem] object-cover transition-transform duration-200 hover:scale-[1.03] sm:h-[7.25rem]"
+			class="dish-card-image h-[5.9rem] w-full rounded-[0.75rem] object-cover sm:h-[7.25rem]"
 			[src]="'/item/' + _dish.slug + '.webp'"
 			[attr.alt]="_dish.imageAlt | translate"
 			loading="lazy"

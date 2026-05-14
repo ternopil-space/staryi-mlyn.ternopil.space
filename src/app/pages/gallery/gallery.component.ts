@@ -3,9 +3,10 @@ import { TranslateDirective } from '@wawjs/ngx-translate';
 import { ExhibitService } from '../../feature/exhibit/exhibit.service';
 import { TranslatePipe } from '../../shared/translate.pipe';
 import { Exhibit } from '../../feature/exhibit/exhibit.interface';
+import { FadeInDirective } from '../../directives/fade-in.directive';
 
 @Component({
-	imports: [TranslateDirective, TranslatePipe],
+	imports: [FadeInDirective, TranslateDirective, TranslatePipe],
 	templateUrl: './gallery.component.html',
 	styleUrl: './gallery.component.scss',
 	changeDetection: ChangeDetectionStrategy.OnPush,

@@ -58,12 +58,12 @@
 			"title": "Навігація по сайту | Старий млин",
 			"description": "Швидкий доступ до всіх основних сторінок сайту ресторану Старий млин.",
 			"robots": "noindex, follow",
-			"image": "/gallery/demo-2.webp"
+			"image": "/gallery/staryi-mlyn-interior-museum-3.webp"
 		},
 		"/gallery": {
 			"title": "Галерея закладу | Старий млин",
 			"description": "Фото інтер'єру, страв, подачі та атмосфери ресторану Старий млин у Тернополі.",
-			"image": "/gallery/demo-1.webp"
+			"image": "/gallery/staryi-mlyn-exterior.webp"
 		},
 		"/dish": {
 			"title": "Сторінка страви | Старий млин",
@@ -72,27 +72,27 @@
 		"/sales": {
 			"title": "Акції та спеціальні пропозиції | Старий млин",
 			"description": "Показуйте сезонні акції, знижки, комбо-пропозиції та спеціальні умови для гостей на сторінці акцій.",
-			"image": "/gallery/demo-3.webp"
+			"image": "/gallery/staryi-mlyn-banquet-hall-7.webp"
 		},
 		"/articles": {
 			"title": "Новини та статті | Старий млин",
 			"description": "Публікуйте новини, історії команди, сезонні оновлення меню та корисні статті для гостей.",
-			"image": "/gallery/demo-2.webp"
+			"image": "/gallery/staryi-mlyn-interior-museum-4.webp"
 		},
 		"/quests": {
 			"title": "Квести та активності | Старий млин",
 			"description": "Окрема сторінка для квестів, розваг і тематичних активностей у закладі або готелі.",
-			"image": "/gallery/demo-3.webp"
+			"image": "/gallery/staryi-mlyn-banquet-hall-7.webp"
 		},
 		"/reviews": {
 			"title": "Відгуки гостей | Старий млин",
 			"description": "Збирайте та показуйте відгуки гостей, рейтинги й соціальний доказ для ресторану, кафе або готелю.",
-			"image": "/gallery/demo-1.webp"
+			"image": "/gallery/staryi-mlyn-exterior.webp"
 		},
 		"/events": {
 			"title": "Події та святкування | Старий млин",
 			"description": "Сторінка для афіші подій, банкетів, живої музики, дегустацій та приватних свят у ресторані Старий млин.",
-			"image": "/gallery/demo-3.webp"
+			"image": "/gallery/staryi-mlyn-banquet-hall-7.webp"
 		},
 		"/products": {
 			"title": "Товари та подарунки | Старий млин",
@@ -107,7 +107,7 @@
 		"/team": {
 			"title": "Команда закладу | Старий млин",
 			"description": "Познайомте гостей із шефом, баристами, менеджерами та сервісною командою на сторінці команди.",
-			"image": "/gallery/demo-1.webp"
+			"image": "/gallery/staryi-mlyn-exterior.webp"
 		},
 		"/socials": {
 			"title": "Контакти та соціальні мережі | Старий млин",

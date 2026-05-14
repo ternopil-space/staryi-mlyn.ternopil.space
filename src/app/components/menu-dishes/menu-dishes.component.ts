@@ -1,10 +1,21 @@
-import { ChangeDetectionStrategy, Component, computed, inject, input } from '@angular/core';
+import { isPlatformBrowser } from '@angular/common';
+import {
+	ChangeDetectionStrategy,
+	Component,
+	PLATFORM_ID,
+	computed,
+	inject,
+	input,
+	signal,
+} from '@angular/core';
+import { animate, group, query, style, transition, trigger } from '@angular/animations';
 import { TranslatePipe } from '../../shared/translate.pipe';
 import { DishCategoryService } from '../../feature/dish/dish-category.service';
 import { toDishCard } from '../../feature/dish/dish.data';
 import { Dish, DishCard, DishCategory } from '../../feature/dish/dish.interface';
 import { DishService } from '../../feature/dish/dish.service';
 import { MenuDishComponent } from '../menu-dish/menu-dish.component';
+import { FadeInDirective } from '../../directives/fade-in.directive';
 
 interface DishSection {
 	id: string;
@@ -16,14 +27,40 @@ interface DishSection {
 
 @Component({
 	selector: 'app-menu-dishes',
-	imports: [MenuDishComponent, TranslatePipe],
+	imports: [FadeInDirective, MenuDishComponent, TranslatePipe],
 	templateUrl: './menu-dishes.component.html',
+	animations: [
+		trigger('categorySwitch', [
+			transition('* => *', [
+				group([
+					query(
+						':leave',
+						[
+							style({ opacity: 1, transform: 'translateY(0)' }),
+							animate('0.25s ease', style({ opacity: 0, transform: 'translateY(-10px)' })),
+						],
+						{ optional: true },
+					),
+					query(
+						':enter',
+						[
+							style({ opacity: 0, transform: 'translateY(20px)' }),
+							animate('0.4s ease', style({ opacity: 1, transform: 'translateY(0)' })),
+						],
+						{ optional: true },
+					),
+				]),
+			]),
+		]),
+	],
 	changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class MenuDishesComponent {
 	private readonly _dishService = inject(DishService);
 	private readonly _dishCategoryService = inject(DishCategoryService);
+	private readonly _platformId = inject(PLATFORM_ID);
 	readonly selectedCategories = input<DishCategory[]>();
+	protected readonly motionDisabled = signal(false);
 
 	readonly categories = computed(() => {
 		const selectedCategories =
@@ -46,6 +83,17 @@ export class MenuDishesComponent {
 			.map((category) => this._toSection(category))
 			.filter((section) => section.dishes.length > 0),
 	);
+	protected readonly categorySwitchKey = computed(() =>
+		this.categories()
+			.map((category) => category.slug)
+			.join('|'),
+	);
+
+	constructor() {
+		if (isPlatformBrowser(this._platformId)) {
+			this.motionDisabled.set(window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+		}
+	}
 
 	private _toSection(category: DishCategory): DishSection {
 		return {

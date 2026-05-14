@@ -1,17 +1,62 @@
 [
 	{
-		"slug": "staryi-mlyn-bar-service-photo",
-		"src": "gallery/demo-1.webp",
-		"alt": "Старий млин bar service photo"
+		"slug": "staryi-mlyn-interior",
+		"src": "gallery/staryi-mlyn-exterior.webp",
+		"alt": "Інтер'єр ресторану Старий Млин у Тернополі"
 	},
 	{
-		"slug": "staryi-mlyn-hotel-reception-photo-1",
-		"src": "gallery/demo-2.webp",
-		"alt": "Старий млин hotel reception photo"
+		"slug": "staryi-mlyn-banquet-table-detail",
+		"src": "gallery/staryi-mlyn-banquet-hall-1.webp",
+		"alt": "Сервірований стіл у ресторані Старий Млин"
 	},
 	{
-		"slug": "staryi-mlyn-hotel-reception-photo-2",
-		"src": "gallery/demo-3.webp",
-		"alt": "Старий млин hotel reception photo"
+		"slug": "staryi-mlyn-table-setting",
+		"src": "gallery/staryi-mlyn-banquet-hall-2.webp",
+		"alt": "Деталі сервірування у ресторані Старий Млин"
+	},
+	{
+		"slug": "staryi-mlyn-banquet-service",
+		"src": "gallery/staryi-mlyn-banquet-hall-3.webp",
+		"alt": "Обслуговування гостей у ресторані Старий Млин"
+	},
+	{
+		"slug": "staryi-mlyn-banquet-dishes",
+		"src": "gallery/staryi-mlyn-banquet-hall-4.webp",
+		"alt": "Бенкетний стіл у ресторані Старий Млин"
+	},
+	{
+		"slug": "staryi-mlyn-cozy-table",
+		"src": "gallery/staryi-mlyn-banquet-hall-5.webp",
+		"alt": "Затишна атмосфера ресторану Старий Млин"
+	},
+	{
+		"slug": "staryi-mlyn-wine-toast",
+		"src": "gallery/staryi-mlyn-banquet-hall-6.webp",
+		"alt": "Гості за столом у ресторані Старий Млин"
+	},
+	{
+		"slug": "staryi-mlyn-banquet-hall",
+		"src": "gallery/staryi-mlyn-banquet-hall-7.webp",
+		"alt": "Бенкетний зал ресторану Старий Млин"
+	},
+	{
+		"slug": "staryi-mlyn-museum-stairs",
+		"src": "gallery/staryi-mlyn-interior-museum-1.webp",
+		"alt": "Музейний інтер'єр ресторану Старий Млин"
+	},
+	{
+		"slug": "staryi-mlyn-terrace-detail",
+		"src": "gallery/staryi-mlyn-interior-museum-2.webp",
+		"alt": "Деталі інтер'єру ресторану Старий Млин"
+	},
+	{
+		"slug": "staryi-mlyn-museum-room",
+		"src": "gallery/staryi-mlyn-interior-museum-3.webp",
+		"alt": "Зал із музейними експонатами у Старому Млині"
+	},
+	{
+		"slug": "staryi-mlyn-dining-room",
+		"src": "gallery/staryi-mlyn-interior-museum-4.webp",
+		"alt": "Обідній зал ресторану Старий Млин"
 	}
 ]

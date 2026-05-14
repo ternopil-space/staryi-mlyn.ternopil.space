@@ -1,7 +1,11 @@
-<section class="mt-3 space-y-4">
+<section
+	class="mt-3 space-y-4"
+	[@categorySwitch]="categorySwitchKey()"
+	[@.disabled]="motionDisabled()"
+>
 	@for (section of sections(); track section.id) {
 		<section class="scroll-mt-28" [attr.id]="section.id">
-			<div class="mb-2 flex items-center gap-2 px-1">
+			<div appFadeIn class="mb-2 flex items-center gap-2 px-1">
 				<h2
 					class="shrink-0 text-[13px] font-semibold uppercase tracking-[0.12em] text-[var(--c-text-secondary)]"
 				>
@@ -11,12 +15,15 @@
 			</div>
 
 			@if (section.hasDescription) {
-				<p class="mb-2 px-1 text-[12px] leading-4 text-[var(--c-text-muted)]">
+				<p appFadeIn class="mb-2 px-1 text-[12px] leading-4 text-[var(--c-text-muted)]">
 					{{ section.description | translate }}
 				</p>
 			}
 
-			<div class="rounded-[1rem] border border-[var(--c-border)] bg-[var(--c-bg-secondary)]">
+			<div
+				appFadeIn
+				class="rounded-[1rem] border border-[var(--c-border)] bg-[var(--c-bg-secondary)]"
+			>
 				@for (dish of section.dishes; track dish.id) {
 					<app-menu-dish [dish]="dish" />
 				}

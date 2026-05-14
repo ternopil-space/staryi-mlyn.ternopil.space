@@ -5,13 +5,20 @@
 		"name": "Young Potatoes",
 		"description": "Homestyle young potatoes with herbs and butter.",
 		"price": 236,
-		"labels": ["280 g"],
+		"labels": [
+			"280 g"
+		],
 		"fullDescription": "Homestyle young potatoes with herbs and butter. A warm, simple dish inspired by family Ukrainian cooking.",
-		"suggested": ["vidbyvna-yak-u-mamy", "rohalyky-z-mamynoho-zoshyta"],
+		"suggested": [
+			"vidbyvna-yak-u-mamy",
+			"rohalyky-z-mamynoho-zoshyta"
+		],
 		"cookTimeMinutes": 20,
 		"caloriesKcal": 360,
 		"portion": "280 g",
-		"allergens": ["butter"]
+		"allergens": [
+			"butter"
+		]
 	},
 	{
 		"slug": "vidbyvna-yak-u-mamy",
@@ -19,13 +26,21 @@
 		"name": "Mom's Style Cutlet",
 		"description": "Juicy homestyle cutlet with a traditional side.",
 		"price": 347,
-		"labels": ["300 g"],
+		"labels": [
+			"300 g"
+		],
 		"fullDescription": "Juicy homestyle cutlet with a traditional side. A hearty dish with the familiar taste of a family table.",
-		"suggested": ["moloda-kartoplia", "byte-sklo-rodom-z-dytynstva"],
+		"suggested": [
+			"moloda-kartoplia",
+			"byte-sklo-rodom-z-dytynstva"
+		],
 		"cookTimeMinutes": 25,
 		"caloriesKcal": 620,
 		"portion": "300 g",
-		"allergens": ["gluten", "eggs"]
+		"allergens": [
+			"gluten",
+			"eggs"
+		]
 	},
 	{
 		"slug": "byte-sklo-rodom-z-dytynstva",
@@ -33,13 +48,20 @@
 		"name": "Childhood Broken Glass Dessert",
 		"description": "Light dessert with jelly and a creamy base.",
 		"price": 182,
-		"labels": ["180 g"],
+		"labels": [
+			"180 g"
+		],
 		"fullDescription": "Light dessert with jelly and a creamy base. A nostalgic sweet inspired by childhood celebrations.",
-		"suggested": ["rohalyky-z-mamynoho-zoshyta", "cappuccino"],
+		"suggested": [
+			"rohalyky-z-mamynoho-zoshyta",
+			"cappuccino"
+		],
 		"cookTimeMinutes": 10,
 		"caloriesKcal": 280,
 		"portion": "180 g",
-		"allergens": ["milk"]
+		"allergens": [
+			"milk"
+		]
 	},
 	{
 		"slug": "rohalyky-z-mamynoho-zoshyta",
@@ -47,13 +69,21 @@
 		"name": "Mom's Recipe Croissants",
 		"description": "Homemade crescent pastries from a traditional family recipe.",
 		"price": 213,
-		"labels": ["160 g"],
+		"labels": [
+			"160 g"
+		],
 		"fullDescription": "Homemade crescent pastries from a traditional family recipe. Tender pastry with a cozy homemade character.",
-		"suggested": ["byte-sklo-rodom-z-dytynstva", "cappuccino"],
+		"suggested": [
+			"byte-sklo-rodom-z-dytynstva",
+			"cappuccino"
+		],
 		"cookTimeMinutes": 15,
 		"caloriesKcal": 390,
 		"portion": "160 g",
-		"allergens": ["gluten", "milk"]
+		"allergens": [
+			"gluten",
+			"milk"
+		]
 	},
 	{
 		"slug": "banderyky",
@@ -61,13 +91,22 @@
 		"name": "Banderiky",
 		"description": "Nalysnyky with chicken and walnuts, fried to a golden crust.",
 		"price": 306,
-		"labels": ["260 g"],
+		"labels": [
+			"260 g"
+		],
 		"fullDescription": "Nalysnyky with chicken and walnuts, fried to a golden crust. A warm Galician dish with a rich homemade filling.",
-		"suggested": ["hryby-tushkovani-z-halushkamy", "palianytsia-z-syrom"],
+		"suggested": [
+			"hryby-tushkovani-z-halushkamy",
+			"palianytsia-z-syrom"
+		],
 		"cookTimeMinutes": 20,
 		"caloriesKcal": 520,
 		"portion": "260 g",
-		"allergens": ["gluten", "nuts", "eggs"]
+		"allergens": [
+			"gluten",
+			"nuts",
+			"eggs"
+		]
 	},
 	{
 		"slug": "vidbyvna-na-kisttsi",
@@ -75,9 +114,14 @@
 		"name": "Bone-in Cutlet",
 		"description": "Juicy pork cutlet with a traditional side.",
 		"price": 289,
-		"labels": ["320 g"],
+		"labels": [
+			"320 g"
+		],
 		"fullDescription": "Juicy pork cutlet with a traditional side. A hearty oven-warm dish for classic Ukrainian dining.",
-		"suggested": ["krutyi-haizy-buzel", "miasysti-holubtsi"],
+		"suggested": [
+			"krutyi-haizy-buzel",
+			"miasysti-holubtsi"
+		],
 		"cookTimeMinutes": 25,
 		"caloriesKcal": 670,
 		"portion": "320 g",
@@ -89,13 +133,20 @@
 		"name": "Rabbit Cutlet",
 		"description": "Baked cutlet in creamy sauce with fluffy mashed potatoes.",
 		"price": 354,
-		"labels": ["310 g"],
+		"labels": [
+			"310 g"
+		],
 		"fullDescription": "Baked cutlet in creamy sauce with fluffy mashed potatoes. Delicate rabbit flavor in a soft homestyle sauce.",
-		"suggested": ["hryby-tushkovani-z-halushkamy", "karpatskyi-banush"],
+		"suggested": [
+			"hryby-tushkovani-z-halushkamy",
+			"karpatskyi-banush"
+		],
 		"cookTimeMinutes": 28,
 		"caloriesKcal": 610,
 		"portion": "310 g",
-		"allergens": ["milk"]
+		"allergens": [
+			"milk"
+		]
 	},
 	{
 		"slug": "kachyna-nizhka-z-pechi",
@@ -103,13 +154,20 @@
 		"name": "Oven Roasted Duck Leg",
 		"description": "Duck leg with tender pumpkin puree.",
 		"price": 267,
-		"labels": ["300 g"],
+		"labels": [
+			"300 g"
+		],
 		"fullDescription": "Duck leg with tender pumpkin puree. Slow oven roasting gives the dish a deep, warm tavern character.",
-		"suggested": ["yahnia-v-travakh", "palianytsia-z-syrom"],
+		"suggested": [
+			"yahnia-v-travakh",
+			"palianytsia-z-syrom"
+		],
 		"cookTimeMinutes": 30,
 		"caloriesKcal": 640,
 		"portion": "300 g",
-		"allergens": ["milk"]
+		"allergens": [
+			"milk"
+		]
 	},
 	{
 		"slug": "miasysti-holubtsi",
@@ -117,9 +175,14 @@
 		"name": "Stuffed Cabbage Rolls",
 		"description": "Traditional cabbage rolls cooked in the oven.",
 		"price": 347,
-		"labels": ["330 g"],
+		"labels": [
+			"330 g"
+		],
 		"fullDescription": "Traditional cabbage rolls cooked in the oven. A generous portion with a rich homestyle sauce.",
-		"suggested": ["banderyky", "fermerske-kurcha"],
+		"suggested": [
+			"banderyky",
+			"fermerske-kurcha"
+		],
 		"cookTimeMinutes": 30,
 		"caloriesKcal": 580,
 		"portion": "330 g",
@@ -131,13 +194,20 @@
 		"name": "Farm Chicken",
 		"description": "Chicken in creamy garlic sauce.",
 		"price": 178,
-		"labels": ["280 g"],
+		"labels": [
+			"280 g"
+		],
 		"fullDescription": "Chicken in creamy garlic sauce. Tender farm-style chicken with a fragrant, comforting sauce.",
-		"suggested": ["derun-z-lisovymy-zmorshkamy", "krutyi-haizy-buzel"],
+		"suggested": [
+			"derun-z-lisovymy-zmorshkamy",
+			"krutyi-haizy-buzel"
+		],
 		"cookTimeMinutes": 22,
 		"caloriesKcal": 540,
 		"portion": "280 g",
-		"allergens": ["milk"]
+		"allergens": [
+			"milk"
+		]
 	},
 	{
 		"slug": "derun-z-lisovymy-zmorshkamy",
@@ -145,13 +215,22 @@
 		"name": "Potato Pancake with Wild Mushrooms",
 		"description": "Potato pancake with wild mushroom sauce.",
 		"price": 346,
-		"labels": ["280 g"],
+		"labels": [
+			"280 g"
+		],
 		"fullDescription": "Potato pancake with wild mushroom sauce. Crisp potato, forest mushrooms, and creamy warmth in one rustic dish.",
-		"suggested": ["hryby-tushkovani-z-halushkamy", "karpatskyi-banush"],
+		"suggested": [
+			"hryby-tushkovani-z-halushkamy",
+			"karpatskyi-banush"
+		],
 		"cookTimeMinutes": 20,
 		"caloriesKcal": 590,
 		"portion": "280 g",
-		"allergens": ["gluten", "eggs", "milk"]
+		"allergens": [
+			"gluten",
+			"eggs",
+			"milk"
+		]
 	},
 	{
 		"slug": "yahnia-v-travakh",
@@ -159,9 +238,14 @@
 		"name": "Herb Lamb",
 		"description": "Slow-braised lamb in fresh aromatic herbs.",
 		"price": 318,
-		"labels": ["290 g"],
+		"labels": [
+			"290 g"
+		],
 		"fullDescription": "Slow-braised lamb in fresh aromatic herbs. A deep, fragrant dish with a traditional countryside character.",
-		"suggested": ["kachyna-nizhka-z-pechi", "palianytsia-z-syrom"],
+		"suggested": [
+			"kachyna-nizhka-z-pechi",
+			"palianytsia-z-syrom"
+		],
 		"cookTimeMinutes": 32,
 		"caloriesKcal": 650,
 		"portion": "290 g",
@@ -173,13 +257,21 @@
 		"name": "Mushrooms with Dumplings",
 		"description": "Wild mushrooms stewed in creamy sauce with dumplings.",
 		"price": 357,
-		"labels": ["300 g"],
+		"labels": [
+			"300 g"
+		],
 		"fullDescription": "Wild mushrooms stewed in creamy sauce with dumplings. A forest-rich Galician comfort dish.",
-		"suggested": ["derun-z-lisovymy-zmorshkamy", "karpatskyi-banush"],
+		"suggested": [
+			"derun-z-lisovymy-zmorshkamy",
+			"karpatskyi-banush"
+		],
 		"cookTimeMinutes": 24,
 		"caloriesKcal": 560,
 		"portion": "300 g",
-		"allergens": ["gluten", "milk"]
+		"allergens": [
+			"gluten",
+			"milk"
+		]
 	},
 	{
 		"slug": "krutyi-haizy-buzel",
@@ -187,9 +279,14 @@
 		"name": "Rustic Potato Skillet",
 		"description": "Signature potato dish baked in a skillet.",
 		"price": 318,
-		"labels": ["320 g"],
+		"labels": [
+			"320 g"
+		],
 		"fullDescription": "Signature potato dish baked in a skillet. Golden potatoes with a bold rustic tavern flavor.",
-		"suggested": ["vidbyvna-na-kisttsi", "fermerske-kurcha"],
+		"suggested": [
+			"vidbyvna-na-kisttsi",
+			"fermerske-kurcha"
+		],
 		"cookTimeMinutes": 24,
 		"caloriesKcal": 620,
 		"portion": "320 g",
@@ -201,13 +298,21 @@
 		"name": "Cheese Palyanytsia",
 		"description": "Homemade palyanytsia with cheese, baked in the oven.",
 		"price": 198,
-		"labels": ["220 g"],
+		"labels": [
+			"220 g"
+		],
 		"fullDescription": "Homemade palyanytsia with cheese, baked in the oven. Warm bread, melted cheese, and a simple traditional soul.",
-		"suggested": ["banderyky", "karpatskyi-banush"],
+		"suggested": [
+			"banderyky",
+			"karpatskyi-banush"
+		],
 		"cookTimeMinutes": 18,
 		"caloriesKcal": 520,
 		"portion": "220 g",
-		"allergens": ["gluten", "milk"]
+		"allergens": [
+			"gluten",
+			"milk"
+		]
 	},
 	{
 		"slug": "karpatskyi-banush",
@@ -215,13 +320,20 @@
 		"name": "Carpathian Banosh",
 		"description": "Banosh with cracklings and bryndza cheese.",
 		"price": 287,
-		"labels": ["280 g"],
+		"labels": [
+			"280 g"
+		],
 		"fullDescription": "Banosh with cracklings and bryndza cheese. A classic Carpathian dish with creamy corn, salty cheese, and crisp pork cracklings.",
-		"suggested": ["hryby-tushkovani-z-halushkamy", "palianytsia-z-syrom"],
+		"suggested": [
+			"hryby-tushkovani-z-halushkamy",
+			"palianytsia-z-syrom"
+		],
 		"cookTimeMinutes": 20,
 		"caloriesKcal": 610,
 		"portion": "280 g",
-		"allergens": ["milk"]
+		"allergens": [
+			"milk"
+		]
 	},
 	{
 		"slug": "file-z-teliatyny",
@@ -229,13 +341,20 @@
 		"name": "Veal Fillet",
 		"description": "",
 		"price": 297,
-		"labels": ["310 g"],
+		"labels": [
+			"310 g"
+		],
 		"fullDescription": "",
-		"suggested": ["teliatyna-pid-sousom-zi-zmorshkiv", "kostytsia"],
+		"suggested": [
+			"teliatyna-pid-sousom-zi-zmorshkiv",
+			"kostytsia"
+		],
 		"cookTimeMinutes": 28,
 		"caloriesKcal": 610,
 		"portion": "310 g",
-		"allergens": ["milk"]
+		"allergens": [
+			"milk"
+		]
 	},
 	{
 		"slug": "teliatyna-pid-sousom-zi-zmorshkiv",
@@ -243,13 +362,22 @@
 		"name": "Veal with Morel Mushroom Sauce",
 		"description": "",
 		"price": 317,
-		"labels": ["280 g"],
+		"labels": [
+			"280 g"
+		],
 		"fullDescription": "",
-		"suggested": ["file-z-teliatyny", "kostytsia"],
+		"suggested": [
+			"file-z-teliatyny",
+			"kostytsia"
+		],
 		"cookTimeMinutes": 20,
 		"caloriesKcal": 590,
 		"portion": "280 g",
-		"allergens": ["gluten", "eggs", "milk"]
+		"allergens": [
+			"gluten",
+			"eggs",
+			"milk"
+		]
 	},
 	{
 		"slug": "file-zi-svynyny",
@@ -257,9 +385,14 @@
 		"name": "Pork Fillet",
 		"description": "",
 		"price": 206,
-		"labels": ["290 g"],
+		"labels": [
+			"290 g"
+		],
 		"fullDescription": "",
-		"suggested": ["kostytsia", "shashlyk-khriu-khriu"],
+		"suggested": [
+			"kostytsia",
+			"shashlyk-khriu-khriu"
+		],
 		"cookTimeMinutes": 32,
 		"caloriesKcal": 650,
 		"portion": "290 g",
@@ -271,9 +404,14 @@
 		"name": "Pork Loin Steak",
 		"description": "",
 		"price": 172,
-		"labels": ["320 g"],
+		"labels": [
+			"320 g"
+		],
 		"fullDescription": "",
-		"suggested": ["file-zi-svynyny", "shashlyk-khriu-khriu"],
+		"suggested": [
+			"file-zi-svynyny",
+			"shashlyk-khriu-khriu"
+		],
 		"cookTimeMinutes": 25,
 		"caloriesKcal": 670,
 		"portion": "320 g",
@@ -285,9 +423,14 @@
 		"name": "Catfish Shashlik",
 		"description": "",
 		"price": 254,
-		"labels": ["300 g"],
+		"labels": [
+			"300 g"
+		],
 		"fullDescription": "",
-		"suggested": ["shashlyk-z-indychky", "shashlyk-khriu-khriu"],
+		"suggested": [
+			"shashlyk-z-indychky",
+			"shashlyk-khriu-khriu"
+		],
 		"cookTimeMinutes": 30,
 		"caloriesKcal": 640,
 		"portion": "300 g",
@@ -299,9 +442,14 @@
 		"name": "Turkey Shashlik",
 		"description": "",
 		"price": 396,
-		"labels": ["280 g"],
+		"labels": [
+			"280 g"
+		],
 		"fullDescription": "",
-		"suggested": ["shashlyk-z-soma", "shashlyk-khriu-khriu"],
+		"suggested": [
+			"shashlyk-z-soma",
+			"shashlyk-khriu-khriu"
+		],
 		"cookTimeMinutes": 22,
 		"caloriesKcal": 540,
 		"portion": "280 g",
@@ -313,9 +461,14 @@
 		"name": "Liver Shashlik",
 		"description": "",
 		"price": 338,
-		"labels": ["320 g"],
+		"labels": [
+			"320 g"
+		],
 		"fullDescription": "",
-		"suggested": ["shashlyk-z-indychky", "shashlyk-khriu-khriu"],
+		"suggested": [
+			"shashlyk-z-indychky",
+			"shashlyk-khriu-khriu"
+		],
 		"cookTimeMinutes": 24,
 		"caloriesKcal": 620,
 		"portion": "320 g",
@@ -327,9 +480,14 @@
 		"name": "Pork Shashlik",
 		"description": "",
 		"price": 362,
-		"labels": ["330 g"],
+		"labels": [
+			"330 g"
+		],
 		"fullDescription": "",
-		"suggested": ["kostytsia", "file-zi-svynyny"],
+		"suggested": [
+			"kostytsia",
+			"file-zi-svynyny"
+		],
 		"cookTimeMinutes": 30,
 		"caloriesKcal": 580,
 		"portion": "330 g",
@@ -341,13 +499,21 @@
 		"name": "With Rabbit",
 		"description": "",
 		"price": 329,
-		"labels": ["260 g"],
+		"labels": [
+			"260 g"
+		],
 		"fullDescription": "",
-		"suggested": ["z-yahniatynoiu", "z-kapustoiu"],
+		"suggested": [
+			"z-yahniatynoiu",
+			"z-kapustoiu"
+		],
 		"cookTimeMinutes": 20,
 		"caloriesKcal": 520,
 		"portion": "260 g",
-		"allergens": ["gluten", "eggs"]
+		"allergens": [
+			"gluten",
+			"eggs"
+		]
 	},
 	{
 		"slug": "z-kapustoiu",
@@ -355,13 +521,21 @@
 		"name": "With Cabbage",
 		"description": "",
 		"price": 267,
-		"labels": ["220 g"],
+		"labels": [
+			"220 g"
+		],
 		"fullDescription": "",
-		"suggested": ["z-krolyka", "z-yahniatynoiu"],
+		"suggested": [
+			"z-krolyka",
+			"z-yahniatynoiu"
+		],
 		"cookTimeMinutes": 18,
 		"caloriesKcal": 520,
 		"portion": "220 g",
-		"allergens": ["gluten", "milk"]
+		"allergens": [
+			"gluten",
+			"milk"
+		]
 	},
 	{
 		"slug": "z-yahniatynoiu",
@@ -369,13 +543,21 @@
 		"name": "With Lamb",
 		"description": "",
 		"price": 317,
-		"labels": ["300 g"],
+		"labels": [
+			"300 g"
+		],
 		"fullDescription": "",
-		"suggested": ["z-krolyka", "z-miasom"],
+		"suggested": [
+			"z-krolyka",
+			"z-miasom"
+		],
 		"cookTimeMinutes": 24,
 		"caloriesKcal": 560,
 		"portion": "300 g",
-		"allergens": ["gluten", "milk"]
+		"allergens": [
+			"gluten",
+			"milk"
+		]
 	},
 	{
 		"slug": "z-miasom",
@@ -383,26 +565,1587 @@
 		"name": "With Meat",
 		"description": "",
 		"price": 306,
-		"labels": ["280 g"],
+		"labels": [
+			"280 g"
+		],
 		"fullDescription": "",
-		"suggested": ["z-yahniatynoiu", "z-krolyka"],
+		"suggested": [
+			"z-yahniatynoiu",
+			"z-krolyka"
+		],
 		"cookTimeMinutes": 20,
 		"caloriesKcal": 610,
 		"portion": "280 g",
-		"allergens": ["milk"]
+		"allergens": [
+			"milk"
+		]
+	},
+	{
+		"slug": "banderyky-snidanky",
+		"categorySlug": "snidanky",
+		"name": "Бандерики",
+		"description": "Налисники з курятиною та горіхами",
+		"price": 326,
+		"labels": [
+			"320 g"
+		],
+		"fullDescription": "Налисники з курятиною та горіхами",
+		"suggested": [],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 520,
+		"portion": "320 g",
+		"allergens": [
+			"Глютен, яйця, молоко"
+		]
+	},
+	{
+		"slug": "duzhe-syrnyi-omlet",
+		"categorySlug": "snidanky",
+		"name": "Дуже сирний омлет",
+		"description": "З хрумким бочком та салаткою зі зелені",
+		"price": 329,
+		"labels": [
+			"280 g"
+		],
+		"fullDescription": "З хрумким бочком та салаткою зі зелені",
+		"suggested": [],
+		"cookTimeMinutes": 12,
+		"caloriesKcal": 470,
+		"portion": "280 g",
+		"allergens": [
+			"Яйця, молоко, глютен"
+		]
+	},
+	{
+		"slug": "yaiechnia-z-kovbasoiu",
+		"categorySlug": "snidanky",
+		"name": "Яєчня з ковбасою",
+		"description": "З грильованою грінкою",
+		"price": 294,
+		"labels": [
+			"250 g"
+		],
+		"fullDescription": "З грильованою грінкою",
+		"suggested": [],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 430,
+		"portion": "250 g",
+		"allergens": [
+			"Яйця, глютен"
+		]
+	},
+	{
+		"slug": "palianytsia-z-indychkoiu",
+		"categorySlug": "snidanky",
+		"name": "Паляниця з індичкою",
+		"description": "З свіжими овочами та шпондером",
+		"price": 324,
+		"labels": [
+			"300 g"
+		],
+		"fullDescription": "З свіжими овочами та шпондером",
+		"suggested": [],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 490,
+		"portion": "300 g",
+		"allergens": [
+			"Глютен, яйця"
+		]
+	},
+	{
+		"slug": "nalysnyky-z-yablukamy-snidanky",
+		"categorySlug": "snidanky",
+		"name": "Налисники з яблуками",
+		"description": "У карамельно лавандовій сметані",
+		"price": 296,
+		"labels": [
+			"260 g"
+		],
+		"fullDescription": "У карамельно лавандовій сметані",
+		"suggested": [],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 430,
+		"portion": "260 g",
+		"allergens": [
+			"Глютен, яйця, молоко"
+		]
+	},
+	{
+		"slug": "palianytsia-z-forelliu",
+		"categorySlug": "snidanky",
+		"name": "Паляниця з фореллю",
+		"description": "Вуджена, подається з хріновим соусом",
+		"price": 308,
+		"labels": [
+			"280 g"
+		],
+		"fullDescription": "Вуджена, подається з хріновим соусом",
+		"suggested": [],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 420,
+		"portion": "280 g",
+		"allergens": [
+			"Риба, глютен"
+		]
+	},
+	{
+		"slug": "shchedro-po-mlynivsky",
+		"categorySlug": "snidanky",
+		"name": "Щедро, по млинівськи",
+		"description": "Яйця, ковбаски, грильовані овочі, паштет",
+		"price": 356,
+		"labels": [
+			"400 g"
+		],
+		"fullDescription": "Яйця, ковбаски, грильовані овочі, паштет",
+		"suggested": [],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 550,
+		"portion": "400 g",
+		"allergens": [
+			"Яйця, глютен, молоко"
+		]
+	},
+	{
+		"slug": "hryby-tushkovani-z-halushkamy-snidanky",
+		"categorySlug": "snidanky",
+		"name": "Гриби тушковані з галушками",
+		"description": "Карпатські гриби у вершковій підливі",
+		"price": 369,
+		"labels": [
+			"350 g"
+		],
+		"fullDescription": "Карпатські гриби у вершковій підливі",
+		"suggested": [],
+		"cookTimeMinutes": 18,
+		"caloriesKcal": 510,
+		"portion": "350 g",
+		"allergens": [
+			"Глютен, молоко"
+		]
+	},
+	{
+		"slug": "pecheni-yaitsia",
+		"categorySlug": "snidanky",
+		"name": "Печені яйця",
+		"description": "На пательні з пряним соусом та сиром",
+		"price": 298,
+		"labels": [
+			"220 g"
+		],
+		"fullDescription": "На пательні з пряним соусом та сиром",
+		"suggested": [],
+		"cookTimeMinutes": 12,
+		"caloriesKcal": 390,
+		"portion": "220 g",
+		"allergens": [
+			"Яйця, молоко"
+		]
+	},
+	{
+		"slug": "syrnyky-try-moloka",
+		"categorySlug": "snidanky",
+		"name": "Сирники «Три молока»",
+		"description": "З кремом з пряженого, згущеного та вареного молока",
+		"price": 297,
+		"labels": [
+			"250 g"
+		],
+		"fullDescription": "З кремом з пряженого, згущеного та вареного молока",
+		"suggested": [],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 460,
+		"portion": "250 g",
+		"allergens": [
+			"Яйця, молоко, глютен"
+		]
+	},
+	{
+		"slug": "z-babusynoho-horodu",
+		"categorySlug": "salatky",
+		"name": "З бабусиного городу",
+		"description": "З капусти, огірка, редиски та зелені",
+		"price": 246,
+		"labels": [
+			"200 g"
+		],
+		"fullDescription": "З капусти, огірка, редиски та зелені",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 150,
+		"portion": "200 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "z-kachynoiu-nizhkoiu",
+		"categorySlug": "salatky",
+		"name": "З качиною ніжкою",
+		"description": "З вітамінним буряком та свіжою зеленню",
+		"price": 382,
+		"labels": [
+			"280 g"
+		],
+		"fullDescription": "З вітамінним буряком та свіжою зеленню",
+		"suggested": [],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 320,
+		"portion": "280 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "vesniani-barvy",
+		"categorySlug": "salatky",
+		"name": "Весняні барви",
+		"description": "Сезонні овочі, кисломолочний сир, сметана",
+		"price": 281,
+		"labels": [
+			"220 g"
+		],
+		"fullDescription": "Сезонні овочі, кисломолочний сир, сметана",
+		"suggested": [],
+		"cookTimeMinutes": 7,
+		"caloriesKcal": 240,
+		"portion": "220 g",
+		"allergens": [
+			"Молоко"
+		]
+	},
+	{
+		"slug": "vinehret-z-bilymy-hrybamy",
+		"categorySlug": "salatky",
+		"name": "Вінегрет з білими грибами",
+		"description": "Заправляється ароматною олією",
+		"price": 268,
+		"labels": [
+			"250 g"
+		],
+		"fullDescription": "Заправляється ароматною олією",
+		"suggested": [],
+		"cookTimeMinutes": 8,
+		"caloriesKcal": 230,
+		"portion": "250 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "salat-z-lisovykh-hrybiv",
+		"categorySlug": "salatky",
+		"name": "Салат з лісових грибів",
+		"description": "З маринованою цибулею та гарбузовим насінням",
+		"price": 298,
+		"labels": [
+			"230 g"
+		],
+		"fullDescription": "З маринованою цибулею та гарбузовим насінням",
+		"suggested": [],
+		"cookTimeMinutes": 7,
+		"caloriesKcal": 220,
+		"portion": "230 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "salat-z-kuriachymy-kruchenykamy",
+		"categorySlug": "salatky",
+		"name": "Салат з курячими кручениками",
+		"description": "Мішанка з овочів, яйця та шкварок",
+		"price": 298,
+		"labels": [
+			"280 g"
+		],
+		"fullDescription": "Мішанка з овочів, яйця та шкварок",
+		"suggested": [],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 310,
+		"portion": "280 g",
+		"allergens": [
+			"Яйця"
+		]
+	},
+	{
+		"slug": "yazykata-khveska",
+		"categorySlug": "salatky",
+		"name": "Язиката Хвеська",
+		"description": "Грильований телячий язик, горошок, селера",
+		"price": 376,
+		"labels": [
+			"260 g"
+		],
+		"fullDescription": "Грильований телячий язик, горошок, селера",
+		"suggested": [],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 300,
+		"portion": "260 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "maionez-z-horoshkom",
+		"categorySlug": "salatky",
+		"name": "Майонез з горошком",
+		"description": "Відварені овочі, копчена шинка, домашній майонез",
+		"price": 283,
+		"labels": [
+			"270 g"
+		],
+		"fullDescription": "Відварені овочі, копчена шинка, домашній майонез",
+		"suggested": [],
+		"cookTimeMinutes": 8,
+		"caloriesKcal": 290,
+		"portion": "270 g",
+		"allergens": [
+			"Яйця, глютен"
+		]
+	},
+	{
+		"slug": "vin-toho-vartyi",
+		"categorySlug": "salatky",
+		"name": "Він того вартий!",
+		"description": "Свіжі овочі, цибуля, м'який овечий сир",
+		"price": 294,
+		"labels": [
+			"220 g"
+		],
+		"fullDescription": "Свіжі овочі, цибуля, м'який овечий сир",
+		"suggested": [],
+		"cookTimeMinutes": 6,
+		"caloriesKcal": 260,
+		"portion": "220 g",
+		"allergens": [
+			"Молоко"
+		]
+	},
+	{
+		"slug": "pashtet-z-kuriachoi-pechinky",
+		"categorySlug": "silski-smaky",
+		"name": "Паштет з курячої печінки",
+		"description": "",
+		"price": 276,
+		"labels": [
+			"150 g"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 280,
+		"portion": "150 g",
+		"allergens": [
+			"Молоко, глютен"
+		]
+	},
+	{
+		"slug": "karpacho-z-kachky",
+		"categorySlug": "silski-smaky",
+		"name": "Карпачо з качки",
+		"description": "З білими грибами та копченим сиром",
+		"price": 327,
+		"labels": [
+			"180 g"
+		],
+		"fullDescription": "З білими грибами та копченим сиром",
+		"suggested": [],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 260,
+		"portion": "180 g",
+		"allergens": [
+			"Молоко"
+		]
+	},
+	{
+		"slug": "zakatana-kapusta",
+		"categorySlug": "silski-smaky",
+		"name": "Закатана капуста",
+		"description": "Квашена капуста з опеньками та цибулею",
+		"price": 246,
+		"labels": [
+			"200 g"
+		],
+		"fullDescription": "Квашена капуста з опеньками та цибулею",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 180,
+		"portion": "200 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "oseledets-z-kaviarom",
+		"categorySlug": "silski-smaky",
+		"name": "Оселедець з кав'яром",
+		"description": "Малосолений, з картоплею на мундирах",
+		"price": 293,
+		"labels": [
+			"220 g"
+		],
+		"fullDescription": "Малосолений, з картоплею на мундирах",
+		"suggested": [],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 310,
+		"portion": "220 g",
+		"allergens": [
+			"Риба"
+		]
+	},
+	{
+		"slug": "saloperehony",
+		"categorySlug": "silski-smaky",
+		"name": "Салоперегони",
+		"description": "Для дужих хлопаків, з хріновими цвіклями",
+		"price": 284,
+		"labels": [
+			"180 g"
+		],
+		"fullDescription": "Для дужих хлопаків, з хріновими цвіклями",
+		"suggested": [],
+		"cookTimeMinutes": 8,
+		"caloriesKcal": 360,
+		"portion": "180 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "kurkulska-tarel",
+		"categorySlug": "silski-smaky",
+		"name": "Куркульська тарель",
+		"description": "М'ясна нарізка з цвіклями",
+		"price": 384,
+		"labels": [
+			"350 g"
+		],
+		"fullDescription": "М'ясна нарізка з цвіклями",
+		"suggested": [],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 480,
+		"portion": "350 g",
+		"allergens": [
+			"Глютен"
+		]
+	},
+	{
+		"slug": "bili-hryby-otstovani",
+		"categorySlug": "silski-smaky",
+		"name": "Білі гриби оцтовані",
+		"description": "Врожай 2024, мариновані з цибулею",
+		"price": 359,
+		"labels": [
+			"200 g"
+		],
+		"fullDescription": "Врожай 2024, мариновані з цибулею",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 190,
+		"portion": "200 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "pivkilo-riznosoliv",
+		"categorySlug": "silski-smaky",
+		"name": "Півкільо різносолів",
+		"description": "Щедра порція з нашого льоху",
+		"price": 327,
+		"labels": [
+			"500 g"
+		],
+		"fullDescription": "Щедра порція з нашого льоху",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 220,
+		"portion": "500 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "miasna-selianka",
+		"categorySlug": "na-pershe",
+		"name": "М'ясна селянка",
+		"description": "З квашеною бузиною та сметаною",
+		"price": 264,
+		"labels": [
+			"350 g"
+		],
+		"fullDescription": "З квашеною бузиною та сметаною",
+		"suggested": [],
+		"cookTimeMinutes": 30,
+		"caloriesKcal": 330,
+		"portion": "350 g",
+		"allergens": [
+			"Глютен, молоко"
+		]
+	},
+	{
+		"slug": "kvaskovyi-borshch-z-kropyvoiu",
+		"categorySlug": "na-pershe",
+		"name": "Квасковий борщ з кропивою",
+		"description": "Подається в запеченому хлібі",
+		"price": 269,
+		"labels": [
+			"400 g"
+		],
+		"fullDescription": "Подається в запеченому хлібі",
+		"suggested": [],
+		"cookTimeMinutes": 35,
+		"caloriesKcal": 340,
+		"portion": "400 g",
+		"allergens": [
+			"Глютен"
+		]
+	},
+	{
+		"slug": "bulion-z-pechi",
+		"categorySlug": "na-pershe",
+		"name": "Бульйон з печі",
+		"description": "З домашнього півня та печених овочів",
+		"price": 238,
+		"labels": [
+			"350 g"
+		],
+		"fullDescription": "З домашнього півня та печених овочів",
+		"suggested": [],
+		"cookTimeMinutes": 25,
+		"caloriesKcal": 260,
+		"portion": "350 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "hrybna-yushka",
+		"categorySlug": "na-pershe",
+		"name": "Грибна юшка",
+		"description": "Зі справжніх білих грибів",
+		"price": 253,
+		"labels": [
+			"350 g"
+		],
+		"fullDescription": "Зі справжніх білих грибів",
+		"suggested": [],
+		"cookTimeMinutes": 30,
+		"caloriesKcal": 280,
+		"portion": "350 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "vchorashnii-borshch",
+		"categorySlug": "na-pershe",
+		"name": "Вчорашній борщ",
+		"description": "Наваристий, з свинним ребром",
+		"price": 276,
+		"labels": [
+			"400 g"
+		],
+		"fullDescription": "Наваристий, з свинним ребром",
+		"suggested": [],
+		"cookTimeMinutes": 40,
+		"caloriesKcal": 380,
+		"portion": "400 g",
+		"allergens": [
+			"Глютен"
+		]
+	},
+	{
+		"slug": "smazheni-baraboli",
+		"categorySlug": "harniry",
+		"name": "Смажені бараболі",
+		"description": "З цибулею та часником, на ферментованому смальці",
+		"price": 248,
+		"labels": [
+			"250 g"
+		],
+		"fullDescription": "З цибулею та часником, на ферментованому смальці",
+		"suggested": [],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 300,
+		"portion": "250 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "ovochi-zadymleni-v-pechi",
+		"categorySlug": "harniry",
+		"name": "Овочі, задимлені в печі",
+		"description": "З легка пікантним соусом",
+		"price": 321,
+		"labels": [
+			"280 g"
+		],
+		"fullDescription": "З легка пікантним соусом",
+		"suggested": [],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 230,
+		"portion": "280 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "piure-z-bulby",
+		"categorySlug": "harniry",
+		"name": "Пюре з бульби",
+		"description": "Файно вим'ята з домашнім маслом",
+		"price": 235,
+		"labels": [
+			"200 g"
+		],
+		"fullDescription": "Файно вим'ята з домашнім маслом",
+		"suggested": [],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 240,
+		"portion": "200 g",
+		"allergens": [
+			"Молоко"
+		]
+	},
+	{
+		"slug": "kapusta-zasypana-openkamy",
+		"categorySlug": "harniry",
+		"name": "Капуста засипана опеньками",
+		"description": "Духмяна, тушена",
+		"price": 243,
+		"labels": [
+			"220 g"
+		],
+		"fullDescription": "Духмяна, тушена",
+		"suggested": [],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 220,
+		"portion": "220 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "barabolka-po-ternopilsky",
+		"categorySlug": "harniry",
+		"name": "Бараболька по-тернопільськи",
+		"description": "У лушпинні, з часником та шкварками",
+		"price": 249,
+		"labels": [
+			"250 g"
+		],
+		"fullDescription": "У лушпинні, з часником та шкварками",
+		"suggested": [],
+		"cookTimeMinutes": 25,
+		"caloriesKcal": 320,
+		"portion": "250 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "medivnyk-shcho-tane-v-roti",
+		"categorySlug": "solodenke",
+		"name": "Медівник, що тане в роті",
+		"description": "З волоськими горіхами, перемащений сметаною",
+		"price": 258,
+		"labels": [
+			"200 g"
+		],
+		"fullDescription": "З волоськими горіхами, перемащений сметаною",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 420,
+		"portion": "200 g",
+		"allergens": [
+			"Глютен, яйця, молоко, горіхи"
+		]
+	},
+	{
+		"slug": "morozyvo-z-lisu",
+		"categorySlug": "solodenke",
+		"name": "Морозиво з лісу",
+		"description": "З ліщиною та шишками",
+		"price": 264,
+		"labels": [
+			"150 g"
+		],
+		"fullDescription": "З ліщиною та шишками",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 320,
+		"portion": "150 g",
+		"allergens": [
+			"Молоко, горіхи"
+		]
+	},
+	{
+		"slug": "nalysnyky-z-yablukamy-solodenke",
+		"categorySlug": "solodenke",
+		"name": "Налисники з яблуками",
+		"description": "У карамельно лавандовій сметані",
+		"price": 279,
+		"labels": [
+			"220 g"
+		],
+		"fullDescription": "У карамельно лавандовій сметані",
+		"suggested": [],
+		"cookTimeMinutes": 8,
+		"caloriesKcal": 360,
+		"portion": "220 g",
+		"allergens": [
+			"Глютен, яйця, молоко"
+		]
+	},
+	{
+		"slug": "naidovshyi-shokoladnyi",
+		"categorySlug": "solodenke",
+		"name": "Найдовший шоколадний",
+		"description": "З лісовими горіхами та кулькою морозива",
+		"price": 286,
+		"labels": [
+			"180 g"
+		],
+		"fullDescription": "З лісовими горіхами та кулькою морозива",
+		"suggested": [],
+		"cookTimeMinutes": 7,
+		"caloriesKcal": 450,
+		"portion": "180 g",
+		"allergens": [
+			"Глютен, молоко, горіхи"
+		]
+	},
+	{
+		"slug": "mokryi-napoleon",
+		"categorySlug": "solodenke",
+		"name": "«Мокрий» Наполеон",
+		"description": "За рецептом 1820 р.",
+		"price": 273,
+		"labels": [
+			"200 g"
+		],
+		"fullDescription": "За рецептом 1820 р.",
+		"suggested": [],
+		"cookTimeMinutes": 8,
+		"caloriesKcal": 430,
+		"portion": "200 g",
+		"allergens": [
+			"Глютен, яйця, молоко"
+		]
+	},
+	{
+		"slug": "zoloti-horishky",
+		"categorySlug": "solodenke",
+		"name": "Золоті горішки",
+		"description": "Із домашнім згущеним молоком та ліщиною",
+		"price": 293,
+		"labels": [
+			"160 g"
+		],
+		"fullDescription": "Із домашнім згущеним молоком та ліщиною",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 390,
+		"portion": "160 g",
+		"allergens": [
+			"Глютен, молоко, горіхи"
+		]
+	},
+	{
+		"slug": "kuryachi-kotletky",
+		"categorySlug": "dytiache-menu",
+		"name": "Курячі котлетки",
+		"description": "З вершковим соусом і домашньою локшиною",
+		"price": 234,
+		"labels": [
+			"200 g"
+		],
+		"fullDescription": "З вершковим соусом і домашньою локшиною",
+		"suggested": [],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 320,
+		"portion": "200 g",
+		"allergens": [
+			"Глютен, молоко"
+		]
+	},
+	{
+		"slug": "bulionchyk-kuriachyi",
+		"categorySlug": "dytiache-menu",
+		"name": "Бульйончик курячий",
+		"description": "",
+		"price": 159,
+		"labels": [
+			"300 g"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 10,
+		"caloriesKcal": 200,
+		"portion": "300 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "varenyky-z-kartopleiu",
+		"categorySlug": "dytiache-menu",
+		"name": "Вареники з картоплею",
+		"description": "",
+		"price": 206,
+		"labels": [
+			"220 g"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 300,
+		"portion": "220 g",
+		"allergens": [
+			"Глютен, яйця"
+		]
+	},
+	{
+		"slug": "varenyky-z-krolykom",
+		"categorySlug": "dytiache-menu",
+		"name": "Вареники з кроликом",
+		"description": "",
+		"price": 257,
+		"labels": [
+			"220 g"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 18,
+		"caloriesKcal": 340,
+		"portion": "220 g",
+		"allergens": [
+			"Глютен, яйця"
+		]
+	},
+	{
+		"slug": "kuryachi-kovbasky-z-fri",
+		"categorySlug": "dytiache-menu",
+		"name": "Курячі ковбаски з фрі",
+		"description": "",
+		"price": 238,
+		"labels": [
+			"250 g"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 15,
+		"caloriesKcal": 380,
+		"portion": "250 g",
+		"allergens": [
+			"Глютен"
+		]
+	},
+	{
+		"slug": "halytski-obidy",
+		"categorySlug": "halytski-obidy",
+		"name": "Галицькі обіди",
+		"description": "Перша + основна страва на вибір, доступно 12:00–15:00",
+		"price": 296,
+		"labels": [
+			"650 g"
+		],
+		"fullDescription": "Перша + основна страва на вибір, доступно 12:00–15:00",
+		"suggested": [],
+		"cookTimeMinutes": 30,
+		"caloriesKcal": 650,
+		"portion": "650 g",
+		"allergens": [
+			"Глютен, яйця, молоко"
+		]
+	},
+	{
+		"slug": "kanapka-z-kurkoiu-ta-ovochamy",
+		"categorySlug": "benketne-menu",
+		"name": "Канапка з куркою та овочами",
+		"description": "1 шт.",
+		"price": 76,
+		"labels": [
+			"80 g"
+		],
+		"fullDescription": "1 шт.",
+		"suggested": [],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 180,
+		"portion": "80 g",
+		"allergens": [
+			"Глютен"
+		]
+	},
+	{
+		"slug": "kanapka-z-oseledtsem",
+		"categorySlug": "benketne-menu",
+		"name": "Канапка з оселедцем",
+		"description": "1 шт.",
+		"price": 76,
+		"labels": [
+			"80 g"
+		],
+		"fullDescription": "1 шт.",
+		"suggested": [],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 160,
+		"portion": "80 g",
+		"allergens": [
+			"Риба, яйця, глютен"
+		]
+	},
+	{
+		"slug": "kanapka-z-teliatyny",
+		"categorySlug": "benketne-menu",
+		"name": "Канапка з телятини",
+		"description": "1 шт.",
+		"price": 76,
+		"labels": [
+			"80 g"
+		],
+		"fullDescription": "1 шт.",
+		"suggested": [],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 190,
+		"portion": "80 g",
+		"allergens": [
+			"Глютен"
+		]
+	},
+	{
+		"slug": "kanapka-z-shynkoiu",
+		"categorySlug": "benketne-menu",
+		"name": "Канапка з шинкою",
+		"description": "1 шт.",
+		"price": 76,
+		"labels": [
+			"80 g"
+		],
+		"fullDescription": "1 шт.",
+		"suggested": [],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 180,
+		"portion": "80 g",
+		"allergens": [
+			"Глютен"
+		]
+	},
+	{
+		"slug": "kanapka-z-shprotoiu",
+		"categorySlug": "benketne-menu",
+		"name": "Канапка з шпротою",
+		"description": "1 шт.",
+		"price": 76,
+		"labels": [
+			"80 g"
+		],
+		"fullDescription": "1 шт.",
+		"suggested": [],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 170,
+		"portion": "80 g",
+		"allergens": [
+			"Риба, яйця, глютен"
+		]
+	},
+	{
+		"slug": "sviatkove-kurcha",
+		"categorySlug": "benketne-menu",
+		"name": "Святкове курча",
+		"description": "Запечене на вогні зі спеціями",
+		"price": 1287,
+		"labels": [
+			"1200 g"
+		],
+		"fullDescription": "Запечене на вогні зі спеціями",
+		"suggested": [],
+		"cookTimeMinutes": 60,
+		"caloriesKcal": 1200,
+		"portion": "1200 g",
+		"allergens": [
+			"Глютен"
+		]
+	},
+	{
+		"slug": "farshyrovanyi-korop",
+		"categorySlug": "benketne-menu",
+		"name": "Фарширований короп",
+		"description": "За галицьким переписом, ціна за 100 г",
+		"price": 129,
+		"labels": [
+			"100 g"
+		],
+		"fullDescription": "За галицьким переписом, ціна за 100 г",
+		"suggested": [],
+		"cookTimeMinutes": 45,
+		"caloriesKcal": 140,
+		"portion": "100 g",
+		"allergens": [
+			"Риба, яйця, глютен"
+		]
+	},
+	{
+		"slug": "fruktova-narizka",
+		"categorySlug": "benketne-menu",
+		"name": "Фруктова нарізка",
+		"description": "Сезонні фрукти, за попереднім замовленням",
+		"price": 1764,
+		"labels": [
+			"1500 g"
+		],
+		"fullDescription": "Сезонні фрукти, за попереднім замовленням",
+		"suggested": [],
+		"cookTimeMinutes": 20,
+		"caloriesKcal": 800,
+		"portion": "1500 g",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "patelnia-miasa",
+		"categorySlug": "benketne-menu",
+		"name": "Пательня м'яса",
+		"description": "Шашлик, медові ребра, ковбаса, картопля",
+		"price": 1830,
+		"labels": [
+			"1800 g"
+		],
+		"fullDescription": "Шашлик, медові ребра, ковбаса, картопля",
+		"suggested": [],
+		"cookTimeMinutes": 60,
+		"caloriesKcal": 1200,
+		"portion": "1800 g",
+		"allergens": [
+			"Глютен"
+		]
+	},
+	{
+		"slug": "kilohram-pliatskiv",
+		"categorySlug": "benketne-menu",
+		"name": "Кілограм пляцків",
+		"description": "Медівник, шоколадний пляцок, горішки",
+		"price": 1215,
+		"labels": [
+			"1000 g"
+		],
+		"fullDescription": "Медівник, шоколадний пляцок, горішки",
+		"suggested": [],
+		"cookTimeMinutes": 30,
+		"caloriesKcal": 1100,
+		"portion": "1000 g",
+		"allergens": [
+			"Глютен, яйця, молоко, горіхи"
+		]
+	},
+	{
+		"slug": "espreso",
+		"categorySlug": "napoi",
+		"name": "Еспресо",
+		"description": "",
+		"price": 76,
+		"labels": [
+			"30 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 30,
+		"portion": "30 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "rystreto",
+		"categorySlug": "napoi",
+		"name": "Ристрето",
+		"description": "",
+		"price": 63,
+		"labels": [
+			"20 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 30,
+		"portion": "20 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "amerykano",
+		"categorySlug": "napoi",
+		"name": "Американо",
+		"description": "",
+		"price": 76,
+		"labels": [
+			"150 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 30,
+		"portion": "150 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "kapuchyno",
+		"categorySlug": "napoi",
+		"name": "Капучино",
+		"description": "",
+		"price": 104,
+		"labels": [
+			"200 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 4,
+		"caloriesKcal": 110,
+		"portion": "200 ml",
+		"allergens": [
+			"Молоко"
+		]
+	},
+	{
+		"slug": "kapuchyno-na-roslynnomu-molotsi",
+		"categorySlug": "napoi",
+		"name": "Капучино на рослинному молоці",
+		"description": "Мигдальне або вівсяне",
+		"price": 129,
+		"labels": [
+			"200 ml"
+		],
+		"fullDescription": "Мигдальне або вівсяне",
+		"suggested": [],
+		"cookTimeMinutes": 4,
+		"caloriesKcal": 100,
+		"portion": "200 ml",
+		"allergens": [
+			"Горіхи"
+		]
+	},
+	{
+		"slug": "motsna-kava",
+		"categorySlug": "napoi",
+		"name": "Моцна кава",
+		"description": "",
+		"price": 112,
+		"labels": [
+			"180 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 4,
+		"caloriesKcal": 80,
+		"portion": "180 ml",
+		"allergens": [
+			"Молоко"
+		]
+	},
+	{
+		"slug": "matcha-late",
+		"categorySlug": "napoi",
+		"name": "Матча лате",
+		"description": "",
+		"price": 132,
+		"labels": [
+			"250 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 140,
+		"portion": "250 ml",
+		"allergens": [
+			"Молоко"
+		]
+	},
+	{
+		"slug": "late",
+		"categorySlug": "napoi",
+		"name": "Лате",
+		"description": "",
+		"price": 106,
+		"labels": [
+			"250 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 4,
+		"caloriesKcal": 130,
+		"portion": "250 ml",
+		"allergens": [
+			"Молоко"
+		]
+	},
+	{
+		"slug": "lavandove-late",
+		"categorySlug": "napoi",
+		"name": "Лавандове лате",
+		"description": "",
+		"price": 173,
+		"labels": [
+			"250 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 150,
+		"portion": "250 ml",
+		"allergens": [
+			"Молоко"
+		]
+	},
+	{
+		"slug": "kakao-z-khmarynkamy",
+		"categorySlug": "napoi",
+		"name": "Какао з хмаринками",
+		"description": "",
+		"price": 98,
+		"labels": [
+			"250 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 180,
+		"portion": "250 ml",
+		"allergens": [
+			"Молоко"
+		]
+	},
+	{
+		"slug": "kvas-yabluchnyi-05-l",
+		"categorySlug": "napoi",
+		"name": "Квас яблучний 0,5 л",
+		"description": "",
+		"price": 79,
+		"labels": [
+			"500 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 120,
+		"portion": "500 ml",
+		"allergens": [
+			"Глютен"
+		]
+	},
+	{
+		"slug": "kvas-yabluchnyi-1-l",
+		"categorySlug": "napoi",
+		"name": "Квас яблучний 1 л",
+		"description": "",
+		"price": 164,
+		"labels": [
+			"1000 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 180,
+		"portion": "1000 ml",
+		"allergens": [
+			"Глютен"
+		]
+	},
+	{
+		"slug": "milksheik-bananovyi",
+		"categorySlug": "napoi",
+		"name": "Мілкшейк банановий",
+		"description": "",
+		"price": 178,
+		"labels": [
+			"300 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 180,
+		"portion": "300 ml",
+		"allergens": [
+			"Молоко"
+		]
+	},
+	{
+		"slug": "milksheik-yahidnyi",
+		"categorySlug": "napoi",
+		"name": "Мілкшейк ягідний",
+		"description": "",
+		"price": 178,
+		"labels": [
+			"300 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 170,
+		"portion": "300 ml",
+		"allergens": [
+			"Молоко"
+		]
+	},
+	{
+		"slug": "fresh-yabluchnyi",
+		"categorySlug": "napoi",
+		"name": "Фреш яблучний",
+		"description": "",
+		"price": 134,
+		"labels": [
+			"250 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 115,
+		"portion": "250 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "fresh-apelsynovyi",
+		"categorySlug": "napoi",
+		"name": "Фреш апельсиновий",
+		"description": "",
+		"price": 184,
+		"labels": [
+			"250 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 120,
+		"portion": "250 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "fresh-hreipfrutovyi",
+		"categorySlug": "napoi",
+		"name": "Фреш грейпфрутовий",
+		"description": "",
+		"price": 183,
+		"labels": [
+			"250 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 100,
+		"portion": "250 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "chai-oblipykhovo-hreipfrutovyi",
+		"categorySlug": "napoi",
+		"name": "Чай обліпихово-грейпфрутовий",
+		"description": "",
+		"price": 108,
+		"labels": [
+			"300 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 90,
+		"portion": "300 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "chai-malynovo-konoplianyi",
+		"categorySlug": "napoi",
+		"name": "Чай малиново-конопляний",
+		"description": "",
+		"price": 108,
+		"labels": [
+			"300 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 5,
+		"caloriesKcal": 90,
+		"portion": "300 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "kysil-yahidnyi-03-l",
+		"categorySlug": "napoi",
+		"name": "Кисіль ягідний 0,3 л",
+		"description": "",
+		"price": 98,
+		"labels": [
+			"300 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 4,
+		"caloriesKcal": 130,
+		"portion": "300 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "sik-vyshnevyi-domashnii-1-l",
+		"categorySlug": "napoi",
+		"name": "Сік вишневий домашній 1 л",
+		"description": "",
+		"price": 229,
+		"labels": [
+			"1000 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 180,
+		"portion": "1000 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "sik-yabluchnyi-domashnii-1-l",
+		"categorySlug": "napoi",
+		"name": "Сік яблучний домашній 1 л",
+		"description": "",
+		"price": 213,
+		"labels": [
+			"1000 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 180,
+		"portion": "1000 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "sik-tomatnyi-orhanichnyi-1-l",
+		"categorySlug": "napoi",
+		"name": "Сік томатний органічний 1 л",
+		"description": "",
+		"price": 203,
+		"labels": [
+			"1000 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 160,
+		"portion": "1000 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "uzvar-kopchenyi-05-l",
+		"categorySlug": "napoi",
+		"name": "Узвар копчений 0,5 л",
+		"description": "",
+		"price": 68,
+		"labels": [
+			"500 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 80,
+		"portion": "500 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "uzvar-kopchenyi-1-l",
+		"categorySlug": "napoi",
+		"name": "Узвар копчений 1 л",
+		"description": "",
+		"price": 131,
+		"labels": [
+			"1000 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 150,
+		"portion": "1000 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "uzvar-kopchenyi-15-l",
+		"categorySlug": "napoi",
+		"name": "Узвар копчений 1,5 л",
+		"description": "",
+		"price": 253,
+		"labels": [
+			"1500 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 180,
+		"portion": "1500 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
+	},
+	{
+		"slug": "voda-poliana-kvasova-05-l",
+		"categorySlug": "napoi",
+		"name": "Вода Поляна Квасова 0,5 л",
+		"description": "",
+		"price": 106,
+		"labels": [
+			"500 ml"
+		],
+		"fullDescription": "",
+		"suggested": [],
+		"cookTimeMinutes": 3,
+		"caloriesKcal": 30,
+		"portion": "500 ml",
+		"allergens": [
+			"Немає основних алергенів"
+		]
 	},
 	{
 		"slug": "cappuccino",
-		"categorySlug": "coffee",
+		"categorySlug": "napoi",
 		"name": "Cappuccino",
 		"description": "Espresso with steamed milk and foam.",
 		"price": 50,
-		"labels": ["350 ml"],
+		"labels": [
+			"350 ml"
+		],
 		"fullDescription": "Espresso with steamed milk and foam. Ingredients: Espresso with steamed milk and foam..",
-		"suggested": ["rohalyky-z-mamynoho-zoshyta"],
+		"suggested": [
+			"rohalyky-z-mamynoho-zoshyta"
+		],
 		"cookTimeMinutes": 5,
 		"caloriesKcal": 110,
 		"portion": "350 ml",
-		"allergens": ["milk"]
+		"allergens": [
+			"milk"
+		]
 	}
 ]
